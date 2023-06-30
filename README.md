@@ -1,2 +1,1 @@
-# RAIVA
-Robotics and Artifiicial INtelligence Virtual Assistant
+Raiva as the name implies is a robotics and artificial intelligence virtual and physical assistant.... considering changing the name to RAIA. Maybe RAIA would be the next edition. The goal of RAIVA is to have the Iron man like Jarvis system, that functions as a virtual assistant like google or alexa but also have the ability to effect changes and activities in the real world, and this can only happen with a physical body.
