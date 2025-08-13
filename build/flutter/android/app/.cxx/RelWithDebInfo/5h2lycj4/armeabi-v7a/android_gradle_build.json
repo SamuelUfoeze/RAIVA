@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/home/ai-analyst/flutter/3.29.2/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/ai-analyst/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/ai-analyst/Videos/personalOs/personal-os-app/build/flutter/android/app/.cxx/RelWithDebInfo/5h2lycj4/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/ai-analyst/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/ai-analyst/Videos/personalOs/personal-os-app/build/flutter/android/app/.cxx/RelWithDebInfo/5h2lycj4/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/ai-analyst/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/ai-analyst/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
